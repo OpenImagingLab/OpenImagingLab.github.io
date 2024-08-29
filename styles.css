@@ -28,7 +28,7 @@ p {
 /* 针对大屏幕的适配 */
 @media (min-width: 1400px) {
     body {
-        max-width: 80%; /* 设置最大宽度为80% */
+        max-width: 70%; /* 设置最大宽度为80% */
     }
 
     h2 {
